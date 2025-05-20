@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\bin\Debug\net8.0\Lab(С#)2.exe
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\bin\Debug\net8.0\Lab(С#)2.deps.json
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\bin\Debug\net8.0\Lab(С#)2.runtimeconfig.json
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\bin\Debug\net8.0\Lab(С#)2.dll
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\bin\Debug\net8.0\Lab(С#)2.pdb
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.dll
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\refint\Lab(С#)2.dll
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.pdb
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\Lab(С#)2.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Lab(С#)2\Lab(С#)2\obj\Debug\net8.0\ref\Lab(С#)2.dll
