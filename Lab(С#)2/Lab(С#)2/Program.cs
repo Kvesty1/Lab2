@@ -133,7 +133,7 @@ public sealed class DocumentManager
         }
         else
         {
-            Console.WriteLine("Неверный номер документа!");
+            Console.WriteLine("Неверный номер документа! Введите еще раз");
         }
     }
 }
